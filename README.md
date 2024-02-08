@@ -1,6 +1,6 @@
 # UNIX/Linux 계보
 
-![image](https://github.com/Soonbum/Soonbum.github.io/assets/16474083/463bf146-768b-49e7-b9a0-31192731db39)
+![image](https://github.com/Soonbum/UnixLinuxShellScript/assets/16474083/ac512d86-abd6-4614-9b23-1b17edc46471)
 
 
 # UNIX/Linux 기본 명령어와 개념
